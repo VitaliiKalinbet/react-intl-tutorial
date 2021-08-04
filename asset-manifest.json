@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-intl-tutorial/static/js/main.fbc9b04c.chunk.js",
+    "main.js.map": "/react-intl-tutorial/static/js/main.fbc9b04c.chunk.js.map",
+    "runtime-main.js": "/react-intl-tutorial/static/js/runtime-main.b3d854d6.js",
+    "runtime-main.js.map": "/react-intl-tutorial/static/js/runtime-main.b3d854d6.js.map",
+    "static/css/2.2bfe27d7.chunk.css": "/react-intl-tutorial/static/css/2.2bfe27d7.chunk.css",
+    "static/js/2.56260775.chunk.js": "/react-intl-tutorial/static/js/2.56260775.chunk.js",
+    "static/js/2.56260775.chunk.js.map": "/react-intl-tutorial/static/js/2.56260775.chunk.js.map",
+    "index.html": "/react-intl-tutorial/index.html",
+    "static/css/2.2bfe27d7.chunk.css.map": "/react-intl-tutorial/static/css/2.2bfe27d7.chunk.css.map",
+    "static/js/2.56260775.chunk.js.LICENSE.txt": "/react-intl-tutorial/static/js/2.56260775.chunk.js.LICENSE.txt",
+    "static/media/flag-icon.min.css": "/react-intl-tutorial/static/media/zw.f5ceeff7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d854d6.js",
+    "static/css/2.2bfe27d7.chunk.css",
+    "static/js/2.56260775.chunk.js",
+    "static/js/main.fbc9b04c.chunk.js"
+  ]
+}
